@@ -1,43 +1,29 @@
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YashwanthS-7.YashwanthS-7&"  />
-</div>
-
-###
-
-<h1 align="center">👋 Hey There 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">👋 Hi, I’m Varun <br><br>🔭 Sophomore Student at Indian Institute of Information Technology, Sri City<br>🌱 I work at GDSC - IIITS as a Web Dev Core Member.<br>🌱 I’m currently learning Data structures and Algorithms,CPP <br>📫 Get in touch : varunrmantri23@gmail.com <br>P.s: 👀 I’m interested in being a better version of me each day!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<!--- Left Section --->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <h1>Greetings, I'm Varun!</h1>
+  <p>👨‍💻 Front-End Developer | Problem Solver | Tech Enthusiast</p>
+  <p>🎓 Sophomore Student at Indian Institute of Information Technology, Sri City</p>
+  <p>💡 Innovating with Code and Building Digital Dreams</p>
+  <p>🌱 Learning Data Structures, Algorithms, C++, Javascript and React</p>
+  <p>📫 Reach me at: varunrmantri23@gmail.com</p>
+  <p>👀 Passionate about crafting beautiful and responsive web experiences.</p>
 </div>
 
+<!--- Center Section --->
+<div align="center">
+  <!--- Profile Picture --->
+  <img src="https://avatars.githubusercontent.com/u/39723815?s=400&u=56c4d192867504476bf2f2cdc1f9160622f930cf&v=4" height="200" />
+  
+  <!--- GitHub Stats --->
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=varunrmantri23&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+</div>
 
-###
+<!--- Right Section --->
+<div align="right">
+  <!--- Social Links --->
+  <h3>🌐 Connect with Me</h3>
+  <a href="https://linkedin.com/in/varun-mantri" target="_blank">LinkedIn</a> | 
+  <a href="https://github.com/varunrmantri23" target="_blank">GitHub</a> | 
+  <a href="mailto:varunrmantri23@gmail.com">Email</a>
+</div>
 
-<!---
-varunrmantri23/varunrmantri23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
