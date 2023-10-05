@@ -10,9 +10,9 @@
 </div>
 
 <!--- Center Section --->
-<div align="center">
+<div align="center" width="400px">
   <!--- GitHub Stats --->
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=varunrmantri23&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varunrmantri23&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=varunrmantri23)](https://git.io/streak-stats)
 </div>
