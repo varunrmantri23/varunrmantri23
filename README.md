@@ -15,6 +15,7 @@
 <div align="center" width="400px">
   <!--- GitHub Stats --->
   <img src="https://github-readme-stats.vercel.app/api?username=varunrmantri23&show_icons=false&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=varunrmantri23&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 
