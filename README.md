@@ -40,7 +40,7 @@ const varun = {
     currentFocus: "Building CrimsonCache - Redis-like server"
   },
   architecture: ["Microservices", "REST APIs", "JAMStack"],
-  funFact: "I forget to commit code when I mess up :) "
+  funFact: "I forget to commit code when I am about to mess up :) "
 };
 ```
 
